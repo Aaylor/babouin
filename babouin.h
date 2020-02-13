@@ -1,0 +1,3 @@
+struct Baboon {
+    int x;
+};
