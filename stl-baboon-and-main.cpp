@@ -7,7 +7,7 @@ struct Foo {
 int
 main()
 {   
-    cout << "Test cout" << endl;
+    std::cout << "Test cout" << std::endl;
     Foo f;
     return f.x;
 }
