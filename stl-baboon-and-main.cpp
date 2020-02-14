@@ -6,7 +6,8 @@ struct Foo {
 
 int
 main()
-{
+{   
+    cout << "Test cout" << endl;
     Foo f;
     return f.x;
 }
